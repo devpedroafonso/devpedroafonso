@@ -7,7 +7,7 @@ Hello, Wolrd!
 
 ###
 
-<p align="center">-🔭 Student of Systems Development
+<p align="center">-🔭 Student of Systems Development <br>
 -🌱 Currently studying Back-End (C#), Front-End (HTML, CSS, JavaScript), and basic knowledge in Photoshop</p>
 
 ###
