@@ -35,6 +35,12 @@ Hello, Wolrd!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devpedroafonso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake.svg">
+</picture>
+
 ###
 
 <h2 align="center">Social Midia</h2>
@@ -51,8 +57,4 @@ Hello, Wolrd!
 </div>
 
 ###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devpedroafonso/devpedroafonso/output/github-contribution-grid-snake.svg">
-</picture>
+
